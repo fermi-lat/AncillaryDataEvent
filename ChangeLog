@@ -1,0 +1,33 @@
+------------------------------------------------------------
+User: omodei  Fri Jun 16 06:39:01 PDT 2006
+AncillaryDataEvent
+
+Log Message:
+first import
+
+Status:
+
+Vendor Tag:	glast
+Release Tags:	v0
+		
+N AncillaryDataEvent/.cvsignore
+N AncillaryDataEvent/AncillaryDataEvent/AncillaryDataEvent.hold
+N AncillaryDataEvent/AncillaryDataEvent/AncillaryDataWord.hold
+N AncillaryDataEvent/AncillaryDataEvent/Digi.h
+N AncillaryDataEvent/AncillaryDataEvent/Recon.h
+N AncillaryDataEvent/AncillaryDataEvent/TaggerChannel.h
+N AncillaryDataEvent/AncillaryDataEvent/TaggerCluster.h
+N AncillaryDataEvent/AncillaryDataEvent/TaggerHit.h
+N AncillaryDataEvent/AncillaryDataEvent/TaggerLayer.h
+N AncillaryDataEvent/AncillaryDataEvent/TaggerModule.h
+N AncillaryDataEvent/AncillaryDataEvent/TaggerParameters.h
+N AncillaryDataEvent/AncillaryDataEvent/QdcHit.h
+N AncillaryDataEvent/cmt/requirements
+N AncillaryDataEvent/cmt/.cvsignore
+N AncillaryDataEvent/src/temp.cxx
+N AncillaryDataEvent/src/Digi.cxx
+N AncillaryDataEvent/src/test/testMain.cxx
+
+No conflicts created by this import
+
+    *
