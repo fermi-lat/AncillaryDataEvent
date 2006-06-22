@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Wed Jun 21 23:04:58 PDT 2006
+AncillaryDataEvent/doc
+
+Added Files:
+	release.notes 
+Log Message:
+add get and set routines necessary for ROOT I/O 
+    *
+------------------------------------------------------------
+User: heather  Wed Jun 21 23:04:58 PDT 2006
 AncillaryDataEvent/cmt
 
 Modified Files:
