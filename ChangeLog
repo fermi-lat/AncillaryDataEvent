@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jun 23 01:11:59 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	Digi.h QdcHit.h Recon.h TaggerHit.h 
+Log Message:
+remove extra ;
+    *
+------------------------------------------------------------
 User: heather  Thu Jun 22 00:10:03 PDT 2006
 AncillaryDataEvent/AncillaryDataEvent
 
