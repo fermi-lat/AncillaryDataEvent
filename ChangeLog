@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: omodei  Thu Jun 29 08:38:06 PDT 2006
+AncillaryDataEvent/src
+
+Modified Files:
+	Digi.cxx 
+Added Files:
+	Recon.cxx TaggerCluster.cxx 
+Log Message:
+Add recon
+
+    *
+------------------------------------------------------------
 User: omodei  Thu Jun 29 08:38:05 PDT 2006
 AncillaryDataEvent/AncillaryDataEvent
 
