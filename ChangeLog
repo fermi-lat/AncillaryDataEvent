@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: kuss  Mon Jul  3 05:42:11 PDT 2006
+AncillaryDataEvent/src
+
+Modified Files:
+	TaggerCluster.cxx 
+Log Message:
+fix a potential bug of diff of two unsigned int.  Preparing tag v0r1p0
+
+    *
+------------------------------------------------------------
 User: kuss  Mon Jul  3 05:42:10 PDT 2006
 AncillaryDataEvent/doc
 
