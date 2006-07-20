@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Thu Jul 20 12:03:09 PDT 2006
+AncillaryDataEvent/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+remove duplicate MAX_CLUSTER_GAP
+    *
+------------------------------------------------------------
+User: heather  Thu Jul 20 12:03:09 PDT 2006
 AncillaryDataEvent/cmt
 
 Modified Files:
