@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Jul 20 12:03:09 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	TaggerCluster.h 
+Log Message:
+remove duplicate MAX_CLUSTER_GAP
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r1p4, operation: add
 Package: AncillaryDataEvent
