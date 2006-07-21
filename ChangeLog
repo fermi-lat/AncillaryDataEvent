@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: omodei  Fri Jul 21 08:41:36 PDT 2006
+AncillaryDataEvent/src
+
+Modified Files:
+	Recon.cxx TaggerCluster.cxx 
+Log Message:
+Basically implement the recon structure. Need some refinement!
+
+    *
+------------------------------------------------------------
 User: omodei  Fri Jul 21 08:41:35 PDT 2006
 AncillaryDataEvent/AncillaryDataEvent
 
