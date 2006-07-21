@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: omodei  Fri Jul 21 08:41:35 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	QdcHit.h Recon.h TaggerCluster.h TaggerHit.h 
+Log Message:
+Basically implement the recon structure. Need some refinement!
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r1p5, operation: add
 Package: AncillaryDataEvent
