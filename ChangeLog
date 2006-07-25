@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: omodei  Tue Jul 25 03:04:36 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	QdcHit.h Recon.h TaggerHit.h 
+Log Message:
+More on recon. Fill the reconstructed quantities. Remove some not implemented var.
+
+    *
+------------------------------------------------------------
 User: omodei  Fri Jul 21 08:41:36 PDT 2006
 AncillaryDataEvent/src
 
