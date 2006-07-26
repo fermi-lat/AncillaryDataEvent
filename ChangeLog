@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Jul 25 21:36:59 PDT 2006
+AncillaryDataEvent/src
+
+Modified Files:
+	Recon.cxx TaggerCluster.cxx 
+Log Message:
+fix up namespace use
+    *
+------------------------------------------------------------
+User: heather  Tue Jul 25 21:36:59 PDT 2006
 AncillaryDataEvent/doc
 
 Modified Files:
