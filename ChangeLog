@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jul 25 21:36:59 PDT 2006
+AncillaryDataEvent/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fix up namespace use
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r2, operation: add
 Package: AncillaryDataEvent
