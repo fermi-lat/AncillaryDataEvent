@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Jul 25 21:36:59 PDT 2006
+AncillaryDataEvent/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+fix up namespace use
+    *
+------------------------------------------------------------
+User: heather  Tue Jul 25 21:36:59 PDT 2006
 AncillaryDataEvent/cmt
 
 Modified Files:
