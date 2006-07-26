@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jul 26 16:28:32 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	QdcHit.h Recon.h TaggerHit.h 
+Log Message:
+some additions for root i/o
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r2p1, operation: add
 Package: AncillaryDataEvent
