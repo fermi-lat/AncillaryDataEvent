@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Jul 27 11:22:08 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	Recon.h 
+Log Message:
+const correctness
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r3p1, operation: add
 Package: AncillaryDataEvent
