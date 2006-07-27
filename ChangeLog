@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: omodei  Thu Jul 27 06:46:57 PDT 2006
+AncillaryDataEvent//AncillaryDataEvent
+
+Modified Files:
+	Recon.h 
+Log Message:
+Add the error on the reconstructed energy
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r3, operation: add
 Package: AncillaryDataEvent
