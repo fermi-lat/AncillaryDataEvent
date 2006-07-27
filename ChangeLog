@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: omodei  Thu Jul 27 06:46:57 PDT 2006
+AncillaryDataEvent//doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Add the error on the reconstructed energy
+
+    *
+------------------------------------------------------------
+User: omodei  Thu Jul 27 06:46:57 PDT 2006
 AncillaryDataEvent//cmt
 
 Modified Files:
