@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jul 28 23:30:59 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	TaggerCluster.h 
+Log Message:
+provide non-const version of getHighestHit
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r3p2, operation: add
 Package: AncillaryDataEvent
