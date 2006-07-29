@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jul 28 23:31:00 PDT 2006
+AncillaryDataEvent/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+provide non-const version of getHighestHit
+    *
+------------------------------------------------------------
 User: heather  Fri Jul 28 23:30:59 PDT 2006
 AncillaryDataEvent/cmt
 
