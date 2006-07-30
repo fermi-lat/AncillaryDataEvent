@@ -1,4 +1,31 @@
 ------------------------------------------------------------
+TAG
+Tag name: v1r3p4, operation: add
+Package: AncillaryDataEvent
+User: heather  Sat Jul 29 22:11:25 2006
+Files:
+  AncillaryDataEvent/.cvsignore  1.1.1.1
+  AncillaryDataEvent/ChangeLog  1.68
+  AncillaryDataEvent/AncillaryDataEvent/TaggerModule.h  1.1.1.1
+  AncillaryDataEvent/AncillaryDataEvent/TaggerLayer.h  1.1.1.1
+  AncillaryDataEvent/AncillaryDataEvent/Digi.h  1.7
+  AncillaryDataEvent/AncillaryDataEvent/Recon.h  1.9
+  AncillaryDataEvent/AncillaryDataEvent/ScalerHit.h  1.1
+  AncillaryDataEvent/AncillaryDataEvent/TaggerChannel.h  1.1.1.1
+  AncillaryDataEvent/AncillaryDataEvent/TaggerCluster.h  1.10
+  AncillaryDataEvent/AncillaryDataEvent/QdcHit.h  1.10
+  AncillaryDataEvent/AncillaryDataEvent/TaggerHit.h  1.11
+  AncillaryDataEvent/cmt/.cvsignore  1.1.1.1
+  AncillaryDataEvent/cmt/requirements  1.12
+  AncillaryDataEvent/doc/release.notes  1.14
+  AncillaryDataEvent/src/Digi.cxx  1.3
+  AncillaryDataEvent/src/Recon.cxx  1.6
+  AncillaryDataEvent/src/temp.cxx  1.1.1.1
+  AncillaryDataEvent/src/TaggerCluster.cxx  1.4
+  AncillaryDataEvent/src/test/testMain.cxx  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: heather  Sat Jul 29 22:10:56 PDT 2006
 AncillaryDataEvent/src
 
