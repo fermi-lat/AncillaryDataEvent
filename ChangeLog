@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: omodei  Thu Aug  3 09:51:01 PDT 2006
+AncillaryDataEvent/src
+
+Modified Files:
+	Recon.cxx 
+Log Message:
+Now recon works, but with some couts
+    *
+------------------------------------------------------------
 User: omodei  Thu Aug  3 09:35:40 PDT 2006
 AncillaryDataEvent/src
 
