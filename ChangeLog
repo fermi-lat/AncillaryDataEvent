@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: omodei  Thu Aug  3 09:35:40 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	Recon.h TaggerCluster.h 
+Log Message:
+Now recon works, but with some couts
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r3p4, operation: add
 Package: AncillaryDataEvent
