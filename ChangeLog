@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: omodei  Sat Aug  5 07:15:15 PDT 2006
+AncillaryDataEvent/src
+
+Modified Files:
+	Recon.cxx TaggerCluster.cxx 
+Log Message:
+MC Geometry (but with 4 silicon in a raw)
+    *
+------------------------------------------------------------
+User: omodei  Sat Aug  5 07:15:15 PDT 2006
 AncillaryDataEvent/AncillaryDataEvent
 
 Modified Files:
