@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: omodei  Sat Aug  5 07:15:15 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	TaggerCluster.h 
+Log Message:
+MC Geometry (but with 4 silicon in a raw)
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r3p5, operation: add
 Package: AncillaryDataEvent
