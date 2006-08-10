@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: omodei  Thu Aug 10 10:42:45 PDT 2006
+AncillaryDataEvent/src
+
+Modified Files:
+	Recon.cxx 
+Log Message:
+Subtrcat the beam momentum
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r4, operation: add
 Package: AncillaryDataEvent
