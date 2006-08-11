@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: omodei  Fri Aug 11 03:43:03 PDT 2006
+AncillaryDataEvent/AncillaryDataEvent
+
+Modified Files:
+	Recon.h TaggerCluster.h 
+Log Message:
+Remove all the couts
+    *
+------------------------------------------------------------
 User: omodei  Thu Aug 10 10:42:45 PDT 2006
 AncillaryDataEvent/src
 
