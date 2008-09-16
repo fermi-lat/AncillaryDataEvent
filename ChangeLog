@@ -1,4 +1,20 @@
 ------------------------------------------------------------
+User: ecephas  Tue Sep 16 12:18:00 PDT 2008
+GlastRelease-scons/AncillaryDataEvent
+
+Modified Files:
+	SConscript 
+Log Message:
+Replaced
+
+test_AncillaryDataEvent = progEnv.GaudiProgram('test_AncillaryDataEvent',[[ 'src/test/testMain.cxx']], test = 1)
+
+with
+
+test_AncillaryDataEvent = progEnv.Program('test_AncillaryDataEvent',[ 'src/test/testMain.cxx'])
+
+    *
+------------------------------------------------------------
 User: ecephas  Fri Aug 15 14:42:33 PDT 2008
 GlastRelease-scons/AncillaryDataEvent
 
