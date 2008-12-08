@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Mon Dec  8 13:15:20 PST 2008
+GlastRelease-scons/AncillaryDataEvent
+
+Modified Files:
+	SConscript 
+Log Message:
+Check in SConscript for AncillaryDataEvent v1r4p1 (for branch-tag, GlastReleasev15r49) 
+    *
+------------------------------------------------------------
 User: ecephas  Tue Sep 16 12:18:00 PDT 2008
 GlastRelease-scons/AncillaryDataEvent
 
