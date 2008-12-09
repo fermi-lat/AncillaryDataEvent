@@ -2,6 +2,16 @@
 TAG
 Tag name: AncillaryDataEvent-01-04-01, operation: add
 Package: AncillaryDataEvent
+User: ecephas  Mon Dec  8 16:08:21 2008
+Files:
+  AncillaryDataEvent/AncillaryDataEventLib.py  1.1
+  AncillaryDataEvent/AncillaryDataEventLib.py  1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: AncillaryDataEvent-01-04-01, operation: add
+Package: AncillaryDataEvent
 User: ecephas  Mon Dec  8 13:15:26 2008
 Files:
   AncillaryDataEvent/SConscript  1.3
