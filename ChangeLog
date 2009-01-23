@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+TAG
+Tag name: AncillaryDataEvent-01-04-01, operation: mov
+Package: AncillaryDataEvent
+User: glastrm  Thu Jan 22 16:31:15 2009
+Files:
+  AncillaryDataEvent/SConscript  1.4
+  AncillaryDataEvent/SConscript  1.4
+  AncillaryDataEvent/SConscript  1.4
+
+    *
+------------------------------------------------------------
 User: ecephas  Thu Jan 22 16:06:44 PST 2009
 GlastRelease-scons/AncillaryDataEvent
 
