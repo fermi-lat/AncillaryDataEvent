@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jul  1 08:46:21 PDT 2009
+AncillaryDataEvent/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+add EOH to release.notes
+    *
+------------------------------------------------------------
 TAG
 Tag name: AncillaryDataEvent-01-04-01, operation: mov
 Package: AncillaryDataEvent
