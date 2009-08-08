@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug  7 18:02:16 PDT 2009
+GlastRelease-scons/AncillaryDataEvent
+
+Modified Files:
+	.cvsignore SConscript 
+Log Message:
+SConscript:  use registerTargets
+.cvsignore:  add SCons build products
+
+    *
+------------------------------------------------------------
 User: heather  Wed Jul  1 08:46:21 PDT 2009
 AncillaryDataEvent/doc
 
