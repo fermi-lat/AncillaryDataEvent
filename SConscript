@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/AncillaryDataEvent/SConscript,v 1.5 2009/08/08 01:02:16 jrb Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/AncillaryDataEvent/SConscript,v 1.6 2009/11/06 01:49:38 jrb Exp $
 # Authors: N.Omodei <nicola.omodei@pi.infn.it>
 # Version: AncillaryDataEvent-01-04-02
 Import('baseEnv')
@@ -8,7 +8,6 @@ Import('packages')
 progEnv = baseEnv.Clone()
 libEnv = baseEnv.Clone()
 
-libEnv.Tool('AncillaryDataEventLib', depsOnly = 1)
 AncillaryDataEvent = libEnv.StaticLibrary('AncillaryDataEvent',
                                           listFiles(['src/*.cxx']))
 
