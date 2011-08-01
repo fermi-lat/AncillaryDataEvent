@@ -1,5 +1,34 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease_Pass7-17-35-23-gr07, operation: add
+Package: AncillaryDataEvent
+User: heather  Mon Aug  1 11:31:08 2011
+Files:
+  AncillaryDataEvent/.cvsignore  1.2
+  AncillaryDataEvent/AncillaryDataEventLib.py  1.1
+  AncillaryDataEvent/ChangeLog  1.111
+  AncillaryDataEvent/SConscript  1.8
+  AncillaryDataEvent/AncillaryDataEvent/TaggerModule.h  1.1.1.1
+  AncillaryDataEvent/AncillaryDataEvent/Digi.h  1.7
+  AncillaryDataEvent/AncillaryDataEvent/TaggerLayer.h  1.1.1.1
+  AncillaryDataEvent/AncillaryDataEvent/Recon.h  1.12
+  AncillaryDataEvent/AncillaryDataEvent/ScalerHit.h  1.1
+  AncillaryDataEvent/AncillaryDataEvent/TaggerChannel.h  1.1.1.1
+  AncillaryDataEvent/AncillaryDataEvent/QdcHit.h  1.10
+  AncillaryDataEvent/AncillaryDataEvent/TaggerCluster.h  1.13
+  AncillaryDataEvent/AncillaryDataEvent/TaggerHit.h  1.11
+  AncillaryDataEvent/cmt/.cvsignore  1.1.1.1
+  AncillaryDataEvent/cmt/requirements  1.17
+  AncillaryDataEvent/doc/release.notes  1.20
+  AncillaryDataEvent/src/Digi.cxx  1.3
+  AncillaryDataEvent/src/Recon.cxx  1.13
+  AncillaryDataEvent/src/temp.cxx  1.1.1.1
+  AncillaryDataEvent/src/TaggerCluster.cxx  1.7
+  AncillaryDataEvent/src/test/testMain.cxx  1.1.1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease_Pass7-17-35-23-gr06, operation: add
 Package: AncillaryDataEvent
 User: heather  Sun Jul 31 22:16:15 2011
