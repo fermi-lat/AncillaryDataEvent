@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: AncillaryDataEvent
+User: heather  Wed Sep  7 14:24:44 2011
+Files:
+  AncillaryDataEvent/.cvsignore  1.2
+  AncillaryDataEvent/AncillaryDataEventLib.py  1.1
+  AncillaryDataEvent/ChangeLog  1.111
+  AncillaryDataEvent/SConscript  1.8
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-19-03-07, operation: add
 Package: AncillaryDataEvent
 User: heather  Wed Sep  7 10:29:55 2011
