@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: cohen  Tue Jan 17 08:52:01 PST 2012
+GlastRelease-scons/AncillaryDataEvent/src
+
+Modified Files:
+	TaggerCluster.cxx 
+Log Message:
+fix C library includes for gcc4.4 compilation
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr17, operation: add
 Package: AncillaryDataEvent
