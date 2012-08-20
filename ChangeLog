@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Mon Aug 20 11:10:29 PDT 2012
+AncillaryDataEvent
+
+Modified Files:
+	SConscript 
+Log Message:
+stag/GoGui_auto-tag
+    *
+------------------------------------------------------------
 User: jrb  Fri Aug 17 17:17:12 PDT 2012
 GlastRelease-scons/AncillaryDataEvent
 
